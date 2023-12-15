@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\BbsController;
 use App\Http\Controllers\HomeController;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
